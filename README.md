@@ -16,7 +16,7 @@ An absolute trash programmer that relies on AI for assistance and guidance.<br>B
     <img src="https://img.shields.io/badge/Pinterest-1e1e2e?style=for-the-badge&logo=pinterest&logoColor=white" />
   </a>
   <!-- Reddit -->
-  <a href="https://reddit.com/user/u/Nauchtyrne">
+  <a href="https://reddit.com/user/Nauchtyrne">
     <img src="https://img.shields.io/badge/Reddit-1e1e2e?style=for-the-badge&logo=reddit&logoColor=white" />
   </a>
   <!-- X (Twitter) -->
