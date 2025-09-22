@@ -32,7 +32,7 @@ An absolute trash programmer that relies on AI for assistance and guidance.<br>B
     <img src="https://img.shields.io/badge/Telegram-1e1e2e?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <!-- Discord -->
-  <a href="https://discordapp.com/users/yustinia513">
+  <a href="https://discordapp.com/users/436778269010952193">
     <img src="https://img.shields.io/badge/Discord-1e1e2e?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
