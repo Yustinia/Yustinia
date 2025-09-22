@@ -31,6 +31,10 @@ An absolute trash programmer that relies on AI for assistance and guidance.<br>B
   <a href="https://t.me/yustinia513">
     <img src="https://img.shields.io/badge/Telegram-1e1e2e?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+  <!-- Discord -->
+  <a href="https://discordapp.com/users/yustinia513">
+    <img src="https://img.shields.io/badge/Discord-1e1e2e?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 # 💻 Tech Stack:
