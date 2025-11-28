@@ -37,8 +37,20 @@ An absolute trash programmer that relies on AI for assistance and guidance.<br>B
   </a>
 </p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## 💻 Tech Stack:
+<p align="center">
+  <!-- C -->
+  <img src="https://img.shields.io/badge/C-1e1e2e?style=for-the-badge&logo=c&logoColor=white" />
+  <!-- C++ -->
+  <img src="https://img.shields.io/badge/C++-1e1e2e?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=white" />
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/Java-1e1e2e?style=for-the-badge&logo=java&logoColor=white" />
+  <!-- Bash -->
+  <img src="https://img.shields.io/badge/Bash-1e1e2e?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nocturnalmacaraeg) 
