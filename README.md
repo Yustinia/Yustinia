@@ -1,7 +1,15 @@
 # 💫 About Me:
-An absolute trash programmer that relies on AI for assistance and guidance.<br>But at least I'm able to learn a lot from it ツ<br><br>🔭 I’m currently working on a lot of private repos that end up archived or deleted<br>🌱 I’m currently learning other programming languages and Nihonggo<br>💬 Ask me about in my socials<br>⚡ Fun fact: Yuri FTW
 
-## 🌐 Socials:
+An absolute trash programmer that relies on AI for assistance and guidance. But at least I'm able to learn a lot from it ツ.
+
+🔭 I’m currently working on a lot of private repos that end up archived or deleted
+
+🌱 I’m currently learning other programming languages and Nihonggo
+
+💬 Ask me about in my socials where you can expect no replies
+
+## 🌐 Socials (Spoiler: It's Barebones)
+
 <p align="center">
   <!-- Bluesky -->
   <a href="https://bsky.app/profile/yustinia513.bsky.social">
@@ -37,7 +45,8 @@ An absolute trash programmer that relies on AI for assistance and guidance.<br>B
   </a>
 </p>
 
-## 💻 Tech Stack:
+## 💻 Things I Know Which Doesn't Matter Schit
+
 <p align="center">
   <!-- C -->
   <img src="https://img.shields.io/badge/C-1e1e2e?style=for-the-badge&logo=c&logoColor=white" />
@@ -51,6 +60,6 @@ An absolute trash programmer that relies on AI for assistance and guidance.<br>B
   <img src="https://img.shields.io/badge/Bash-1e1e2e?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
+## 💰 Uhh... Here's a Donation Link...
 
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nocturnalmacaraeg) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nocturnalmacaraeg)
